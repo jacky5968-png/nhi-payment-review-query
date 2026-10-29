@@ -1,0 +1,8 @@
+.env
+.env.*
+node_modules/
+runtime/
+*.pem
+*.key
+connection.json
+allowed_users.json
